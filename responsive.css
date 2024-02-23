@@ -1,0 +1,113 @@
+@media screen and (min-width:1281px){
+     
+}
+@media screen and (max-width:1280px){
+    
+
+}
+@media screen and (max-width:1110px){
+	 .conteiner {
+	width:99%;
+}
+	.mainMenu {
+		width: 99%;
+	}
+}
+
+@media screen and (max-width:1024px){
+    .myBlog .conteiner {
+	width:99%;
+}
+	.myBlog #viewport {
+	width: 87%;
+	}
+
+	.myBlog .article:first-child{
+		margin-left: 20px;
+	}
+
+    .myBlog .slider .arcticle {
+    	width: 405px;
+    }
+
+    .aboutMy h1 {
+      font-size: 30px;
+   }
+
+   .aboutMy p {
+      font-size: 10px;
+   }
+
+   .aboutText button {
+      width: 180px;
+      height: 50px;
+   }
+
+   .Left h2 {
+      font-size: 20px;
+   }
+
+   .Left2 h2 {
+      font-size: 20px;
+   }
+
+   .left3 h3 {
+      font-size: 20px;
+   }
+
+   
+
+   .headerText h1 {
+      font-size: 20px;
+     }
+
+   .getInTouch h1 {
+      font-size: 25px;
+   }
+
+   .blogMenu div {
+      margin-right: 2px;
+   }
+
+   .aboutPhoto {
+    margin-left: 50px;
+   }
+
+   .skill {
+      width: 140px;
+      height: 45px;
+   }
+
+   .text3d-3 {
+      font-size: 15px;
+   }
+
+   .Right img {
+      height: 285px;
+   }
+
+   .Img2 img {
+      height: 285px;
+   }
+
+   .Right3 Img {
+      height: 285px;
+   }
+}
+
+@media screen and (min-width: 768px) {
+
+}
+
+@media screen and (max-width: 375px) {
+
+   .menu .mainMenu .burger-menu{
+      visibility: visible;
+       }
+
+   .menu .mainMenu ul{
+      display: none;
+       }
+
+}
+
